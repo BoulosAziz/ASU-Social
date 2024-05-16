@@ -1,6 +1,3 @@
-# Social-Media
-Text based social media platform that allows creating users and logging in, as well as following other users and liking and commenting on other posts.
-
 # ASU-Social
 
 Welcome to ASU Social! This is a Java-based application that allows users to make text posts, like posts, comment on posts, add and remove friends, and update their profiles.
